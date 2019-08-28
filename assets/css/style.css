@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+
+
+body {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	margin: 0px;
+	overflow-x: hidden;
+	padding: 0px;
+}
+
+.do {
+	background-color: #021020;
+	position: relative;
+}
+
+.blue-light {
+	background-color: #051b34;
+	height: 50%;
+	position: absolute;
+	width: 100%;
+}
+
+.does-box {
+	margin-bottom: 20px;
+	background-color: #fff;
+	-webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+	box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.does-box .panel-body {
+	padding: 58px 65px;
+	background: #FFF;
+}
+
+.main-template-about .does-box .panel-body h2 {
+	color: #333;
+	font-size: 28px;
+	font-weight: 400;
+	line-height: 56px;
+	margin-bottom: 40px;
+}
+
+.main-template-about .does-box .panel-body p {
+	color: #333;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 32px;
+	margin-bottom: 40px;
+}
+
+.sheenilogo{
+	width: 80px;
+}
